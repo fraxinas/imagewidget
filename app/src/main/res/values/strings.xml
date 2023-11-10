@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageWidget</string>
+    <string name="appwidget_text">Text</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Show an image from the gallery</string>
+    <string name="appwidget_image_content_description">Image displayed in the widget</string>
+    <string name="preview_image_description">Image Preview</string>
+</resources>
