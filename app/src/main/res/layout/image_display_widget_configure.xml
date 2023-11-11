@@ -16,7 +16,7 @@
         android:id="@+id/appwidget_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="text" />
+        android:inputType="" />
 
     <Button
         android:id="@+id/add_button"
